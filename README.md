@@ -8,7 +8,7 @@ dlib has an excellent facial recognition model. However, unfortunately, it is ra
 So I collected a lot of datasets, mainly Japanese, and trained from scratch. This took a tremendous amount of time, but I think we have reached a standard that can withstand practical use to some extent. Even though it was trained for Japanese people, the results are similar to the dlib model when it comes to facial recognition for Westerners. Photos of Hollywood action heroes provided in the dlib example can also be classified in the same way as dlib.  
 
 Please see below for detailed explanation  
-[Taguchi Models](https://github.com/TaguchiModels/dlibModels/blob/main/README_EN.md))
+[Taguchi Models](https://github.com/TaguchiModels/dlibModels/blob/main/README_EN.md)
 
 ## Obtaining a facial recognition model  
 Please obtain the dlib model 'shape_predictor_5_face_landmarks.dat' from the link below.  
