@@ -10,6 +10,17 @@ dlib には優秀な顔認証モデルがあります。しかし、残念なが
 詳細な説明は下記をご覧ください  
 [Taguchi Models](https://github.com/TaguchiModels/dlibModels)
 
+## アプリケーションの動作イメージ  
+「Start」ボタンクリック  
+![Screenshot_1](https://github.com/TaguchiModels/Face-recognition-using-QR-code/assets/167880914/590724a4-f0f4-4817-bed9-9d8599f97bdf)  
+QRコードをかざす  
+![Screenshot_2](https://github.com/TaguchiModels/Face-recognition-using-QR-code/assets/167880914/3d715982-4dbd-43f9-af6d-64159bdcd753)  
+顔を認証中  
+![Screenshot_3](https://github.com/TaguchiModels/Face-recognition-using-QR-code/assets/167880914/b9d0f725-7a4a-47c3-b5a0-26ad80c4fa67)  
+認証精度が 'accuracy is' の右側に表示される  
+![Screenshot_4](https://github.com/TaguchiModels/Face-recognition-using-QR-code/assets/167880914/93a3ae0f-2940-43c5-80ed-382f4e7e17a5)  
+
+
 ## 顔認証モデルの入手
 dlib のモデル 'shape_predictor_5_face_landmarks.dat'は以下のリンクより取得してください。  
  `※ 拡張子に'.bz2'が付いていますので、ダウンロード後に解凍してください`  
