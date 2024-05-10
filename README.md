@@ -40,7 +40,7 @@ Please refer to dlib.net for instructions on how to compile 'FaceRecognition.cpp
 ## Preparing for execution  
 Place the 'FaceRecognition.exe' executable file created after compilation into the C# execution folder.  
  * Place a 'faces' folder and a '000100' folder under it.
- * Also place JapaneseBaldActor.jpg and bald_guys.jpg under it.
+ * Also place '000100.jpg' under it.
  * Place the 'temp' folder under the 'faces' folder and place 5 images of 'YAMAZAKI_Kento'.
  * Place 'Images' folder and place camera.png under it.
  * Place 'shape_predictor_5_face_landmarks.dat'.
