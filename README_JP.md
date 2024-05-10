@@ -43,7 +43,7 @@ OpenCV のカスケード識別器 'haarcascade_frontalface_default.xml' を以�
 ## 実行の準備  
 コンパイル後に出来た 'FaceRecognition.exe' 実行ファイルを C# の実行フォルダーに配置してください。  
  * 'faces' フォルダーを配置して、その配下に '000100' フォルダーを配置してください。
- *  さらにその配下に JapaneseBaldActor.jpg, bald_guys.jpg を配置してください。
+ *  さらにその配下に '000100.jpg を配置してください。
  * 'faces' フォルダーの配下に 'temp' フォルダーを配置して 'YAMAZAKI_Kento' の画像を5枚配置してください。
  * 'Images' フォルダーを配置して、その配下に camera.png を配置してください。
  * 'shape_predictor_5_face_landmarks.dat' を配置してください。  
