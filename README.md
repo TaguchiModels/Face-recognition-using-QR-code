@@ -10,6 +10,16 @@ So I collected a lot of datasets, mainly Japanese, and trained from scratch. Thi
 Please see below for detailed explanation  
 [Taguchi Models](https://github.com/TaguchiModels/dlibModels/blob/main/README_EN.md)
 
+## Application operation image  
+Click “Start” button  
+![Screenshot_1](https://github.com/TaguchiModels/Face-recognition-using-QR-code/assets/167880914/590724a4-f0f4-4817-bed9-9d8599f97bdf)  
+Hold up the QR code  
+![Screenshot_2](https://github.com/TaguchiModels/Face-recognition-using-QR-code/assets/167880914/3d715982-4dbd-43f9-af6d-64159bdcd753)  
+Recognizing face  
+![Screenshot_3](https://github.com/TaguchiModels/Face-recognition-using-QR-code/assets/167880914/b9d0f725-7a4a-47c3-b5a0-26ad80c4fa67)  
+Authentication accuracy is displayed to the right of 'accuracy is'  
+![Screenshot_4](https://github.com/TaguchiModels/Face-recognition-using-QR-code/assets/167880914/93a3ae0f-2940-43c5-80ed-382f4e7e17a5)  
+
 ## Obtaining a facial recognition model  
 Please obtain the dlib model 'shape_predictor_5_face_landmarks.dat' from the link below.  
   `*The extension has '.bz2', so please unzip it after downloading`  
